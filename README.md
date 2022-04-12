@@ -3,7 +3,7 @@
 ## I'm 25 years old.
 <br/><br/>
 ### I hold a bachelor degree in Mechanical Engineering.
-### I have a passion of learning software development and any related subject and I'm learing JavaScript in this time .
+### I have a passion of learning software development and any related subject and I'm learning JavaScript at that time .
 
 <br/><br/>
 
